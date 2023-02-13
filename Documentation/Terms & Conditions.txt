@@ -1,0 +1,15 @@
+***********************************
+** SpelSmart for Windows Desktop **
+**                               **
+***********************************
+
+
+The Creator of this Program: Pravin Cherian-Fernandez
+
+This program may be distrubuted freely.
+User is allowed to edit the source code and add own features to this game
+
+Program was coded in python
+
+Python - 3.4
+

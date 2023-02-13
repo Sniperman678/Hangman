@@ -1,0 +1,33 @@
+Welcome to SpellSmart
+
+Setup:
+1.The File must be unziped.
+2.Once the File is unziped.
+3.User must already have python3.4, if you dont have it download from the link below.
+	https://www.python.org/download/releases/3.4.0/
+4.once you have have python go to the {Game} folder and open the game {SPELLSMART} by double clicking it.
+5.Enjoy,Learn and have fun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creator = Pravin Cherian-Fernandez
